@@ -1,5 +1,9 @@
-# Starter files for my YouTube tutorial - [React Weather App with Hooks and Context | React.js tutorial 2020](https://www.youtube.com/watch?v=At_5xYramLk&t=2577s)
+# React Weather App developed using Context API and Hooks
 
-* Download or clone the repository
-* Open project in the terminal and install the node modules - npm install
-* Run npm start to launch the project.
+## [Live Site](https://github.com)
+
+To initializa this application locally, please follow the below steps :
+
+- Clone/Download this repository
+- Run `npm install` from the project directory to install the dependencies
+- Run `npm run start` to start the development server @ port 3000
