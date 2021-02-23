@@ -35,7 +35,7 @@ const Main = () => {
 			return setError('Please enter the name of the city');
 		}
 
-		const API_KEY = '16443f6f99a5eeb1a6246065e5cec72e';
+		const API_KEY = process.env.REACT_APP_API_KEY;
 
 		const url = `https://api.openweathermap.org/data/2.5/weather?q=${location}&appid=${API_KEY}&units=metric`;
 
