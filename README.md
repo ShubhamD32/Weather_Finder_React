@@ -2,7 +2,7 @@
 
 ## [Live Site](https://github.com)
 
-To initializa this application locally, please follow the below steps :
+To initialize this application locally, please follow the below steps :
 
 - Clone/Download this repository
 - Run `npm install` from the project directory to install the dependencies
